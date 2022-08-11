@@ -1,0 +1,18 @@
+* {
+  font-family:helvetica;
+}
+label, button{
+  
+  display:block;
+}
+#email-label, button {
+  margin-top: 10px;
+}
+
+button{
+  padding: 2px 7px;
+  color:white;
+  background-color:#0096FF;
+  border:1px darkblue solid;
+  border-radius:3px;
+}
